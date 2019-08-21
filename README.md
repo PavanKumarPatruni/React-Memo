@@ -1,4 +1,4 @@
-## React Hooks
+## React Memo
 
 1. Memo means memorising. This is performance optimisation feature for function component.
 2. What Pure components does for class components, The same react memo will do for functional components.
