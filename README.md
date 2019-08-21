@@ -1,4 +1,4 @@
-##React Hooks
+## React Hooks
 
 What Pure components does for class components  The same react memo will do for functional components. It restricts the component to re-render unnecessarily
 
