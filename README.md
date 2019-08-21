@@ -1,6 +1,9 @@
 ## React Hooks
 
-What Pure components does for class components  The same react memo will do for functional components. It restricts the component to re-render unnecessarily
+1. Memo means memorising. This is performance optimisation feature for function component.
+2. What Pure components does for class components, The same react memo will do for functional components.
+3. It restricts the component to re-render unnecessarily
+4. React.memo is higher order component. 
 
 
 ### How to use
